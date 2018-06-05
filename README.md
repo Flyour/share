@@ -33,6 +33,7 @@
 ### 基础
 - [操作系统原理 第9版（Operating System Concepts 9th Edition）](https://github.com/77ircloud/share/blob/master/books/Operating%20System%20Concepts%209th%20Edition.pdf)
 - [操作系统思考 中文版](https://wizardforcel.gitbooks.io/think-os/content/)
+- [程序员的自我修养](https://github.com/Flyour/share/blob/master/books/a-programmer-prepares.pdf)
 - [代码大全](https://github.com/77ircloud/share/blob/master/books/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%E9%9D%9E%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
 - [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/index.html)
