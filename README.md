@@ -93,5 +93,6 @@
 - [人月神话](https://github.com/77ircloud/share/blob/master/books/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.pdf)
 
 
-### 二进制漏洞
+### 二进制漏洞与逆向工程
 - [Q版缓冲区溢出教程](https://github.com/Flyour/share/blob/master/books/Q%E7%89%88%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E6%95%99%E7%A8%8B.pdf)
+- [IDA Pro 权威指南(第二版)](https://github.com/Flyour/share/blob/master/books/IDA%20Pro%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97(%E7%AC%AC%E4%BA%8C%E7%89%88)%E5%AE%8C%E7%BE%8E%E7%89%88.pdf）
