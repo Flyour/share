@@ -86,6 +86,9 @@
 - [高级Bash脚本编程指南 Revision 10中文版](https://linuxstory.gitbooks.io/advanced-bash-scripting-guide-in-chinese/content/)
 
 
+### Windows
+- [windows程序设计中文版](https://github.com/Flyour/share/blob/master/books/Windows%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%AD%E6%96%87%E7%89%88%E7%BE%8E%E5%8C%96%E7%89%88.pdf)
+
 ### 架构
 - [software-architecture-patterns](https://github.com/77ircloud/share/blob/master/books/software-architecture-patterns.pdf)
 
